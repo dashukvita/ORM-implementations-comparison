@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jmh.version>1.23</jmh.version>
 
-        <hibernate.version>5.4.14.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <openjpa.version>3.1.1</openjpa.version>
         <eclipselink.version>2.7.6</eclipselink.version>
         <mybatis.version>3.5.1</mybatis.version>
